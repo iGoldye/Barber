@@ -1,6 +1,6 @@
 ConfigBarber = {}
 
-ConfigBarber.Price = 100
+ConfigBarber.Price = 125
 
 ConfigBarber.DrawDistance = 100.0
 ConfigBarber.MarkerSize   = {x = 1.5, y = 1.5, z = 1.0}
